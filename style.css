@@ -1,0 +1,20 @@
+body {
+  background-color: bisque;
+  text-align: center;
+  column-count: auto;
+  padding: auto;
+  padding: 2cm;
+}
+#image {
+  height: 500px;
+  width: 500px;
+  background-image: url("images/calendar.jpg");
+  background-size: 700px 600px;
+}
+p {
+  color: blueviolet;
+}
+.content {
+  max-width: 500px;
+  margin: auto;
+}
