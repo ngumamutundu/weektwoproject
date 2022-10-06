@@ -1,8 +1,9 @@
-# Week two ip
+# Web application
 
  
 
-#### This project is about identifying birth day
+#### This project is about creating web application for checking Akan name.
+
 
  
 
@@ -11,7 +12,7 @@
  
 
 ## Description
-
+-To build a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
  
 .
 
@@ -37,11 +38,12 @@ There are no known bugs on this project.
 
  
 
-Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+Languages used include HTML , CSS , JavaScript and bootstrap. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
 
  
 
 ## Support and contact details
+
 
  
 
