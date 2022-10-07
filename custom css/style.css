@@ -64,5 +64,8 @@ img {
   border-color: cadetblue;
 }
 h3 {
-  color:black;
+  color: black;
+}
+button {
+  background-color: #4caf50;
 }
