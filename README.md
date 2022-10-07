@@ -19,6 +19,11 @@ To build a web application that takes a user's birthday and calculates the day o
  
 
 ## Setup/Installation Requirements
+-Git clone https://github.com/ngumamutundu/weekoneIndependentproject.git
+
+-Open the cloned code on vs code.
+
+-Then run with live server.
 
  
 
@@ -43,6 +48,7 @@ Languages used include HTML , CSS , JavaScript and bootstrap. I have used editor
  
 
 ## Support and contact details
+For support you can email me at mutundu.nguma@gmail.com or call +254725927461, I will appreciate if you can help me do much better in coding.
 
 
  
