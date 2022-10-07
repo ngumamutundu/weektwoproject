@@ -45,6 +45,8 @@ There are no known bugs on this project.
 
 Languages used include HTML , CSS , JavaScript and bootstrap. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
 
+## Live link
+-https://ngumamutundu.github.io/weektwoproject/
  
 
 ## Support and contact details
