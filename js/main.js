@@ -3,7 +3,7 @@ console.log(inPutBirthDate);
 
 var genderInput = prompt("Enter your gender ('Female or Male')");
 console.log(genderInput);
-var dayOfWeek = [
+const dayOfWeek = [
   "Sunday",
   "Monday",
   "Tuesday",
@@ -12,5 +12,5 @@ var dayOfWeek = [
   "Friday",
   "Sartuday",
 ];
-var maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
-var femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
+const maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
+const femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
