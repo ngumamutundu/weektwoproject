@@ -3,6 +3,7 @@ body {
   text-align: center;
   column-count: auto;
   padding: 2cm;
+  float: inline-start;
 }
 
 p {
@@ -63,9 +64,11 @@ img {
   border-width: 20px;
   border-color: cadetblue;
 }
-h3 {
-  color: black;
+h2{
+  color:blue;
+  font-style: italic;
 }
 button{
   color:green;
+  
 }

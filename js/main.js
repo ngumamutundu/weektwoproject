@@ -11,7 +11,7 @@ function akanNames() {
     var femaleNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
     var maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
 
-    var dateInput = prompt("Enter date of birth: YY-MM-DD:"); // requests user to put date of birth in indicated format.
+    var dateInput = prompt("Enter date of birth: YYYY-MM-DD:"); // requests user to put date of birth in indicated format.
 
     var birthDate = new Date(dateInput); // fetches date from the user input
 
@@ -58,6 +58,6 @@ function akanNames() {
             alert("invalid gender use M/MALE or F/FEMALE");
         }
     } else {
-        alert("wrong date put date in this format YY-MM-DD");
+        alert("wrong date put date in this format YYYY-MM-DD");
     }
 }
